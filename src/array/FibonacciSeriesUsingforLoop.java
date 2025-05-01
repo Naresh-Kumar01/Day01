@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FibonacciSeriesUsingforLoop {
 	
 	public static void main(String[] args) {
-		int  firstTerm=0,secondTerm=1;
+		int i,  firstTerm=0,secondTerm=1;
 		FibonacciSeriesUsingforLoop ob=new FibonacciSeriesUsingforLoop();
 		
 		Scanner sc=new Scanner(System.in);
